@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Lhtie
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - Lhtie/Bio-Domain-Transfer
+  - NJUNLP/MMT-LLM
+  - Lhtie/CS3162-ML-QA
+  - Lhtie/Compiler_ACM-2021
+  - Lhtie/RISC-V_CPU-2021
+  - Lhtie/Raft
+  - MuLinjiu/Ticket-System_2020ACM
